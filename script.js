@@ -7,3 +7,4 @@ document.getElementById('aboutBtn').addEventListener('click', () => {
 });
 
 // Test commit for lab
+// Additional comment for commit
