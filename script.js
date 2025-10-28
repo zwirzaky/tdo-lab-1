@@ -5,3 +5,5 @@ document.getElementById('homeBtn').addEventListener('click', () => {
 document.getElementById('aboutBtn').addEventListener('click', () => {
     document.getElementById('content').innerHTML = '<p>This is the about page content.</p>';
 });
+
+// Test commit for lab
